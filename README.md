@@ -21,7 +21,7 @@ Google APIs - only for signin with 'gapi.auth2'
 # Steps to run
 
 1. Start the web server
-   2.Start the RTMP server
-2. Starte OBS on your system and setup a scene with audio and video sources
-3. Start the react app
-4. Navigate to localhost:3000 to access the app on a browser
+2. Start the RTMP server
+3. Starte OBS on your system and setup a scene with audio and video sources
+4. Start the react app
+5. Navigate to localhost:3000 to access the app on a browser
