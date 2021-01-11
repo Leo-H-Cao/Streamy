@@ -1,6 +1,6 @@
 # Streaming App
 
-A mockup of Twitch streaming app built with React, Redux + Redux Thunk, RTMP Server, RESTful API. A user can navigate and see different streams; if authenticated through Google authorization he can create, modify or delete their own streams.
+A mockup of Twitch streaming app built with React, Redux + Redux Thunk, RTMP Server, RESTful API. A user can navigate and see different streams; if authenticated through Google authorization they can create, modify or delete their own streams.
 
 This project was designed by Stephen Grider for 'Modern React with Redux' on Udemy. Coded & modified by Leo Cao.
 
